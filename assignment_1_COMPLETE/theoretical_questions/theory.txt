@@ -1,0 +1,17 @@
+
+Differences between Linked Lists
+
+Singly Linked List:
+- Uses: Simple data storage, stacks, queues
+- Pros: Less memory, simple
+- Cons: One direction traversal only
+
+Doubly Linked List:
+- Uses: Undo/Redo, navigation systems
+- Pros: Two direction traversal
+- Cons: Extra memory
+
+Circular Linked List:
+- Uses: CPU scheduling, playlists
+- Pros: No NULL, continuous loop
+- Cons: Complex implementation
